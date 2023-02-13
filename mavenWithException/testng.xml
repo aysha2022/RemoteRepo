@@ -1,0 +1,8 @@
+<suite name="Smoke" parallel ="methods">
+<test name ="whatever">
+<classes>
+<class name ="com.bit.test.seleniumgrid">
+</class>
+</classes>
+</test>
+</suite>
